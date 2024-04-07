@@ -34,8 +34,11 @@
 **希望能帮到你！后续会对易用性进行优化，也许再加一些功能**
 
 #### 附：实际使用场景
-![R13M0({~I@Q(G 4EZ(`V~3V](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/b28829c7-1c86-4ba9-bdee-6ba870ac17a8)
 
-![4LICJ 2K_%YS73D9ZV0N {X](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/8e638f52-6342-4521-bb39-adc78792bef8)
+![4LICJ 2K_%YS73D9ZV0N {X](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/1f22c1dd-6c0a-467b-bd35-7943fe1238b9)
 
-![QQ截图20240407221439](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/5c38367f-c291-451f-bffa-d2b7a532a9d0)
+![R13M0({~I@Q(G 4EZ(`V~3V](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/afef5caa-0f47-44a2-87a0-69f163f4c511)
+
+![QQ截图20240407221439](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/10322f1b-9cad-46a9-8c81-4f7f6820cf26)
+
+
