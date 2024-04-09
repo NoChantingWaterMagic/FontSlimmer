@@ -1,16 +1,19 @@
 # FontSlimmer
 ## TTF字体子集化工具
 
-**非常简单、非常直观、非常好用**，因此删掉了之前的长篇大论，我保证是个人看一眼界面就知道怎么用，小春都会用的字体子集化工具！
+**非常简单、非常直观、非常好用**！因此删掉了之前的长篇大论，我保证是个人看一眼界面就知道怎么用，小春都会用的字体子集化工具！
 
 **希望能帮到你！后续也许会再加一些功能**
 
+ASSInfoShow:加载用户手动选择的ass字幕文件，并且读取[V4+ Styles]中提到的字体和[Events]事件使用到的所有字符。结果会输出在控制台，你可以选择导出为一个txt文件，也可以直接选择复制字符到剪贴板。
+FontSlimmer：加载用户手动选择的TTF格式字体文件，之后读取用户选择的txt文件中的所有字符或者访问剪贴板中的所有字符，作为字体子集化的依据。点击字体子集化之后手动指定文件输出位置，会自动创建NewFonts文件夹并且把新字体输出在其中。如果已经存在NewFonts文件夹将会创建一个10随机字符的文件夹。
+
+FontSlimmer在一开始就会存储好字体的FontName属性，在处理完之后写回，所以不会造成字体名称变化导致字体无法被调用的问题。也方便想反子集化的朋友不至于找不到原字体。
+
+
 #### 附：实际使用场景
 
-![4LICJ 2K_%YS73D9ZV0N {X](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/1f22c1dd-6c0a-467b-bd35-7943fe1238b9)
+![image](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/bee9685a-6c01-4988-9430-fe5fc05559ed)
 
-![R13M0({~I@Q(G 4EZ(`V~3V](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/afef5caa-0f47-44a2-87a0-69f163f4c511)
-
-![QQ截图20240407221439](https://github.com/NoChantingWaterMagic/FontSlimmer/assets/120241623/10322f1b-9cad-46a9-8c81-4f7f6820cf26)
 
 
